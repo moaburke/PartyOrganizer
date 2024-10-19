@@ -2,6 +2,9 @@
 
 A Windows Forms application for organizing parties. This application allows you to manage guest lists, calculate costs, and handle party details efficiently.
 
+![CreatingPartyList.png](CreatingPartyList.png)
+![AddingGuests.png](AddingGuests.png)
+
 ## Features
 
 - **Create Party**: Set up a new party with a maximum number of guests, cost per person, and fee per person.
